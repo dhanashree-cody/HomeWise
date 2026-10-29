@@ -48,7 +48,7 @@ npm run dev:web         # Vite dev server on :5173 (proxies /api to :4000)
 
 | Username   | Password       | Role       | Can do                                            |
 |------------|----------------|------------|---------------------------------------------------|
-| `dr.anand` | `clinician123` | Clinician  | Register patients, run assessments, raise requests |
+| `dr.anand` | `clinician123` | Clinician  | Register patients, run assessments, raise requests|
 | `bb.kumar` | `bloodbank123` | Blood bank | Donors, donations, stock, reserve and issue units |
 | `admin`    | `admin123`     | Admin      | Everything, plus rule governance and audit verify |
 
